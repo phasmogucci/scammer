@@ -1,1 +1,33 @@
+Benutzername: User123
+Passwort: Passwort456
+Mods: CBEJoin, Auto Geschenk, CBConnect
+Preis:
+CBEJoin: 1.000.000$
+Auto Geschenk: 100.000$
+CBConnect: 1.500.000$
+Downloads:
+CBEJoin: 3
+Auto Geschenk: 2
+CBConnect: 6
 
+Benutzername: ModLover
+Passwort: SecurePW789
+Mods: GGConnect, AntiAFK
+Preis:
+GGConnect: 1.000.000$
+AntiAFK: 500.000$
+Downloads:
+GGConnect: 2
+AntiAFK: 8
+
+Benutzername: PremiumUser
+Passwort: TopSecret123
+Mods: CBEJoin, GGConnect, AntiAFK
+Preis:
+CBEJoin: 1.000.000$
+GGConnect: 1.000.000$
+AntiAFK: 500.000$
+Downloads:
+CBEJoin: 3
+GGConnect: 2
+AntiAFK: 8
