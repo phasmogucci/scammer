@@ -1,14 +1,16 @@
 Benutzername: Anton
 Passwort: 1
-Mods: CBEJoin, Auto Geschenk, CBConnect
+Mods: CBEJoin, Auto Geschenk, CBConnect, AntiAFK
 Preis:
-CBEJoin: 2.000.000$
+CBEJoin: 1.000.000$
 Auto Geschenk: 100.000$
 CBConnect: 1.500.000$
+AntiAFK: 0$
 Downloads:
-CBEJoin: 3
-Auto Geschenk: 2
-CBConnect: 9
+CBEJoin: 8
+Auto Geschenk: 0
+CBConnect: 1
+AntiAFK: 2
 
 Benutzername: ModLover
 Passwort: SecurePW789
