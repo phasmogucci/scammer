@@ -2,7 +2,7 @@ Benutzername: Anton
 Passwort: 1
 Mods: CBEJoin, Auto Geschenk, CBConnect
 Preis:
-CBEJoin: 1.000.000$
+CBEJoin: 2.000.000$
 Auto Geschenk: 100.000$
 CBConnect: 1.500.000$
 Downloads:
