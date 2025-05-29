@@ -1,19 +1,17 @@
 Benutzername: Anton
 Passwort: 1
-Mods: CBEJoin, Auto Geschenk, CBConnect, AntiAFK
+Mods: CBEJoin, CBEJoinFree, AntiAFK
 Preis:
 CBEJoin: 1.000.000$
-Auto Geschenk: 100.000$
-CBConnect: 1.500.000$
+CBEJoinFree: 0$
 AntiAFK: 0$
 Downloads:
-CBEJoin: 8
-Auto Geschenk: 0
-CBConnect: 1
+CBEJoinFree: 8
+CBEJoin: 0
 AntiAFK: 2
 
-Benutzername: ModLover
-Passwort: SecurePW789
+Benutzername: Giovanni
+Passwort: gH4ca12gu
 Mods: GGConnect, AntiAFK
 Preis:
 GGConnect: 1.000.000$
